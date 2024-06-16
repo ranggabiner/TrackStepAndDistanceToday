@@ -12,7 +12,6 @@ struct ContentView: View {
     
     var body: some View {
         VStack(spacing: 20) {
-            // Header
             VStack(spacing: 10) {
                 Text("StepTracker")
                     .font(.largeTitle)

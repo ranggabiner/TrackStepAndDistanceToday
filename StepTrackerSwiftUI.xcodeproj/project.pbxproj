@@ -13,7 +13,6 @@
 		8F75C27B2C14509F00F24DF6 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8F75C27A2C14509F00F24DF6 /* Preview Assets.xcassets */; };
 		8F75C2822C1450D900F24DF6 /* HealthStoreManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F75C2812C1450D900F24DF6 /* HealthStoreManager.swift */; };
 		8F75C2852C1451AD00F24DF6 /* HealthKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8F75C2842C1451AD00F24DF6 /* HealthKit.framework */; };
-		8F75C2882C14573600F24DF6 /* DateFormat.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F75C2872C14573600F24DF6 /* DateFormat.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,7 +24,6 @@
 		8F75C2812C1450D900F24DF6 /* HealthStoreManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HealthStoreManager.swift; sourceTree = "<group>"; };
 		8F75C2842C1451AD00F24DF6 /* HealthKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = HealthKit.framework; path = System/Library/Frameworks/HealthKit.framework; sourceTree = SDKROOT; };
 		8F75C2862C1455B800F24DF6 /* StepTrackerSwiftUI.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = StepTrackerSwiftUI.entitlements; sourceTree = "<group>"; };
-		8F75C2872C14573600F24DF6 /* DateFormat.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DateFormat.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,7 +64,6 @@
 				8F75C2772C14509F00F24DF6 /* Assets.xcassets */,
 				8F75C2792C14509F00F24DF6 /* Preview Content */,
 				8F75C2812C1450D900F24DF6 /* HealthStoreManager.swift */,
-				8F75C2872C14573600F24DF6 /* DateFormat.swift */,
 			);
 			path = StepTrackerSwiftUI;
 			sourceTree = "<group>";
@@ -159,7 +156,6 @@
 			files = (
 				8F75C2762C14509D00F24DF6 /* ContentView.swift in Sources */,
 				8F75C2822C1450D900F24DF6 /* HealthStoreManager.swift in Sources */,
-				8F75C2882C14573600F24DF6 /* DateFormat.swift in Sources */,
 				8F75C2742C14509D00F24DF6 /* StepTrackerSwiftUIApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
